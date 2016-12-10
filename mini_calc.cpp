@@ -19,9 +19,9 @@ int quotient(int a,int b)
 int main()
 {	
 	int a,b;
-	cout <<"Enter number 1: ";
+	cout <<"Enter num 1: ";
 	cin>>a;
-	cout <<"Enter number 2: ";
+	cout <<"Enter num 2: ";
 	cin>>b;
 	cout<<"Sum is: "<<sum(a,b)<<endl;
 	cout<< "Difference is: "<<diff(a,b)<<endl;
