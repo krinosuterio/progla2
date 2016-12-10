@@ -23,9 +23,9 @@ int main()
 	cin>>a;
 	cout <<"Enter number 2: ";
 	cin>>b;
-	cout<<"Sum is:"<<sum(a,b)<<endl;
-	cout<< "Difference is:"<<diff(a,b)<<endl;
-	cout<<"Product is:"<<product(a,b)<<endl;
-	cout<< "Quotient is:"<<quotient(a,b)<<endl;
+	cout<<"Sum is :"<<sum(a,b)<<endl;
+	cout<< "Difference is :"<<diff(a,b)<<endl;
+	cout<<"Product is :"<<product(a,b)<<endl;
+	cout<< "Quotient is :"<<quotient(a,b)<<endl;
 	return 0;	
 }
