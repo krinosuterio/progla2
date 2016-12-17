@@ -12,5 +12,9 @@ int main()
 	cin>>Person.shoulder;
 	cin>>Person.head;
 	cin>>Person.toes;
+	cout<<Person.knees;
+	cout<<Person.shoulder;
+	cout<<Person.head;
+	cout<<Person.toes;
 	return 0;
 }
